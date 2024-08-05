@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bc0efb29ac1bf4d4683cb260e1306c12
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 1c171270023f9154eb9cc30a2b9bf588
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 277afe935705389438ed4fba51f8f3b7
+  - enabled: 1
+    path: Assets/Scenes/Room 3.unity
+    guid: 19c712e380853304bbfc978ae287d09c
+  - enabled: 1
+    path: Assets/Scenes/Room 4.unity
+    guid: a859c021f3eed7243a182f64103c8843
+  - enabled: 1
+    path: Assets/Scenes/Room 5.unity
+    guid: 9ed69b4918d7ba4419c4ba348cf846dc
+  - enabled: 1
+    path: Assets/Scenes/Room 6.unity
+    guid: 042a149d2b0eac54b9a6f3374e8d1ca5
+  - enabled: 1
+    path: Assets/Scenes/Room 7.unity
+    guid: d49eeb4ed2bb9cc4188b618fcb12472a
+  - enabled: 1
+    path: Assets/Scenes/Room 8.unity
+    guid: ac7ae2660dff9f042ab3d2c67d2bbe91
+  - enabled: 1
+    path: Assets/Scenes/Room 9.unity
+    guid: a28dc7094bc51c6489a296d0d54de95f
+  - enabled: 1
+    path: Assets/Scenes/Room 10.unity
+    guid: 6515f414b8dbad84da58368096f74ccf
+  - enabled: 1
+    path: Assets/Scenes/Room 11.unity
+    guid: 48f958be74abf6a4d92b67642683e042
+  - enabled: 1
+    path: Assets/Scenes/Room 12.unity
+    guid: b8f5468397237db4cb4cacb882fb260b
+  - enabled: 1
+    path: Assets/Scenes/Boss Room.unity
+    guid: 61a5e2a61f77fa147999e71114b2be26
+  - enabled: 1
+    path: Assets/Scenes/PickUp Room 1.unity
+    guid: 8b91618dca7294f438393cb9d19050bd
+  - enabled: 1
+    path: Assets/Scenes/PickUp Room 2.unity
+    guid: adfa809f64c23f94193bcc64ba5993ec
+  - enabled: 1
+    path: Assets/Scenes/PickUp Room 3.unity
+    guid: e9bbf80591c718f4c9f68241c69d9758
+  - enabled: 1
+    path: Assets/Scenes/Losing Screen.unity
+    guid: 70ea24423a5f23243a53828353b8121f
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: f173f8ef8ec02c449ac02dba292f0d86
+  m_configObjects: {}
